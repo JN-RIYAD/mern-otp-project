@@ -45,7 +45,7 @@ MERN_OTP_PROJECT/
 ### Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/JN-RIYAD/mern-otp-project.git>
 cd MERN_OTP_PROJECT
 cd server
 npm install
@@ -96,3 +96,5 @@ MongoDB Atlas
 Nodemailer
 bcrypt
 dotenv
+
+Md. Jannatun Nayem Riyad
